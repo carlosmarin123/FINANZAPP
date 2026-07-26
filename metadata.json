@@ -1,0 +1,6 @@
+{
+  "name": "FinanzApp",
+  "description": "Plataforma de gestión financiera personal con analítica de patrimonio, presupuestos, ingresos y gastos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
